@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  sidekube-operator:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-09-12T22:39:13.801665759Z"
+    description: SideKube operator chart
+    digest: 7ee62b288727a1ea95d5228d9407bc6cff66b3701d57a24772a2e88be885ba73
+    name: sidekube-operator
+    urls:
+    - https://sidekube.github.io/operator/sidekube-operator-1.tgz
+    version: "1"
+generated: "2020-09-12T22:39:13.801038527Z"
