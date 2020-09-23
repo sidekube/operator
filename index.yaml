@@ -3,16 +3,16 @@ entries:
   sidekube-operator:
   - apiVersion: v1
     appVersion: "1.2"
-    created: "2020-09-22T23:10:42.60601204+03:00"
+    created: "2020-09-23T10:33:25.281381074+03:00"
     description: SideKube operator chart
-    digest: 6d26190024a387a4c6527e04015952347ae1fa286f010df0287b51aa757ee717
+    digest: ee2695fa496be4c58249f3c7d016dff67ab6bbfe71b72d42bfb91ec65af6ce89
     name: sidekube-operator
     urls:
     - https://sidekube.github.io/operator/sidekube-operator-1.2.tgz
     version: "1.2"
   - apiVersion: v1
     appVersion: "1.1"
-    created: "2020-09-22T23:10:42.605682709+03:00"
+    created: "2020-09-23T10:33:25.281117141+03:00"
     description: SideKube operator chart
     digest: c358b8897c5a2ce5b0e9744e00bb9761f39ead71e3d21efb0baaeeb9b6c37df5
     name: sidekube-operator
@@ -21,11 +21,11 @@ entries:
     version: "1.1"
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-09-22T23:10:42.606481702+03:00"
+    created: "2020-09-23T10:33:25.281761513+03:00"
     description: SideKube operator chart
     digest: f3a58e9a3f98007efb0383137906cbbf9460a09ea0361f37ba983f731cde555c
     name: sidekube-operator
     urls:
     - https://sidekube.github.io/operator/sidekube-operator-1.tgz
     version: "1"
-generated: "2020-09-22T23:10:42.604944645+03:00"
+generated: "2020-09-23T10:33:25.280449697+03:00"
